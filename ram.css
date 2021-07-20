@@ -1,0 +1,15 @@
+li{
+    border: 2px solid black;
+  }
+  img{
+    /* display: block; */
+    /*margin-left: auto
+    margin-right: auto*/
+    margin-left: 600px;
+    display: block;
+
+    
+  }
+  div.a{
+    text-align: center;
+  }
